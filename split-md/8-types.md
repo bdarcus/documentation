@@ -1,0 +1,38 @@
+# Appendix III - Types
+
+-   article
+-   article-magazine
+-   article-newspaper
+-   article-journal
+-   bill
+-   book
+-   broadcast
+-   chapter
+-   dataset
+-   entry
+-   entry-dictionary
+-   entry-encyclopedia
+-   figure
+-   graphic
+-   interview
+-   legislation
+-   legal\_case
+-   manuscript
+-   map
+-   motion\_picture
+-   musical\_score
+-   pamphlet
+-   paper-conference
+-   patent
+-   post
+-   post-weblog
+-   personal\_communication
+-   report
+-   review
+-   review-book
+-   song
+-   speech
+-   thesis
+-   treaty
+-   webpage
+
